@@ -28,49 +28,49 @@ DB 구축 : select한 결과를 캡쳐해 주세요
 
 구현 기능: 메인화면(로그인 X)
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_Main_loginX.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginX.PNG?raw=true)
 
 
 
 구현 기능: 메인화면(로그인 실패)
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_Main_login_fail.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_login_fail.PNG?raw=true)
 
 
 
 구현 기능: 메인화면(로그인 O)
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_Main_loginO.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginO.PNG?raw=true)
 
 
 
 구현 기능: 회원가입
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_Main_resigter.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_resigter.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색(로그인 안해서 실패)
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_findHouse_loginX.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginX.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 메인(로그인 O)
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_findHouse_loginO.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginO.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 동별 검색
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_findHouse_dongFind.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_aptFind.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 아파트 별 검색
 
-![](https://lab.ssafy.com/chlj1101/happyhouse_backend/-/raw/master/result/HappyHouse_BackEnd_findHouse_aptFind.PNG)
+![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_dongFind.PNG?raw=true)
 
 
 
