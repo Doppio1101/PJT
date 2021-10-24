@@ -1,5 +1,3 @@
-관통 프로젝트 제출 방법
-
 # 관통프로젝트: HappyHouse_BackEnd
 
 
