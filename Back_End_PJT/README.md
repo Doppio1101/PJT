@@ -1,5 +1,3 @@
-관통 프로젝트 제출 방법
-
 # 관통프로젝트: HappyHouse_BackEnd
 
 
@@ -28,49 +26,49 @@ DB 구축 : select한 결과를 캡쳐해 주세요
 
 구현 기능: 메인화면(로그인 X)
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginX.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginX.PNG?raw=true)
 
 
 
 구현 기능: 메인화면(로그인 실패)
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_login_fail.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_login_fail.PNG?raw=true)
 
 
 
 구현 기능: 메인화면(로그인 O)
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginO.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_Main_loginO.PNG?raw=true)
 
 
 
 구현 기능: 회원가입
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_resigter.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_resigter.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색(로그인 안해서 실패)
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginX.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginX.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 메인(로그인 O)
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginO.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_loginO.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 동별 검색
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_aptFind.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_dongFind.PNG?raw=true)
 
 
 
 구현 기능: 아파트 검색 아파트 별 검색
 
-![](https://github.com/Doppio1101/PJT/blob/master/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_dongFind.PNG?raw=true)
+![](https://github.com/Doppio1101/PJT/blob/master/Back_End_PJT/1015_%EA%B4%80%ED%86%B5PJT_%EC%82%AC%EC%A7%84/HappyHouse_BackEnd_findHouse_aptFind.PNG?raw=true)
 
 
 
@@ -78,3 +76,8 @@ DB 구축 : select한 결과를 캡쳐해 주세요
 
 
 
+### 소감
+
+- 장정훈
+  - 주어진 데이터베이스를 활용하여 작업 했는데, 기존 작업 방식에서 데이터 활용 방법이 달라졌을 때 융통성 있는 변경을 생각할 수 있는 기회였습니다.
+  - 특히, 공공데이터로부터 xml 파싱으로 작업했던 작업과 데이터베이스를 활용한 작업의 차이점을 이해할 수 있었던 것 같습니다.
