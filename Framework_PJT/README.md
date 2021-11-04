@@ -1,4 +1,8 @@
 # 관통프로젝트: HappyHouse_Framework 
+> 기존 백엔드 프로젝트를 spring legacy 혹은 spring boot로 변환(2021.11.02~)
+>
+> 어떤 알고리즘을 넣어야 더 좋은 프로젝트가 될 수 있을지 생각(~2021.11.03)
+
 
 
 ### 처리된 요구사항 목록
@@ -78,72 +82,70 @@
 ### 실행화면 캡쳐 - 
 TODO: 요구사항 목록에서 완료 처리된 사항의 캡쳐 이미지를 등록하세요.
 
-DB 구축 : select한 결과를 캡쳐해 주세요
 
 
-
-1. 구현 기능: Main
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/main.PNG)
+1. 구현 기능: Main(메인화면)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/main.PNG?raw=true)
 
 
 
 2. 구현 기능: loginPage
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/loginPage.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/loginPage.PNG?raw=true)
 
 
 
 3. 구현 기능: loginCheck
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/loginCheck.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/loginCheck.PNG?raw=true)
 
 
 
 4. 구현 기능: main_after_login
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/main_after_login.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/main_after_login.PNG?raw=true)
 
 
 
 5. 구현 기능: myPage
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/myPage.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/myPage.PNG?raw=true)
 
 
 
 6. 구현 기능: askUpdate
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/askUpdate.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/askUpdate.PNG?raw=true)
 
 
 
 7. 구현 기능: updateCheck
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/updateCheck.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/updateCheck.PNG?raw=true)
 
 
 
 8. 구현 기능: delete
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/delete.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/delete.PNG?raw=true)
 
 
 
 9. 구현 기능: joinPage
-   ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/joinPage.PNG)
+   ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/joinPage.PNG?raw=true)
 
 
 
 10. 구현 기능: registerCheck
-    ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/registerCheck.PNG)
+    ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/registerCheck.PNG?raw=true)
 
 
 
 11. 구현 기능: findHouseMain
-    ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/findHouseMain.PNG)
+    ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/findHouseMain.PNG?raw=true)
 
 
 
 12. 구현 기능: dongFind
-    ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/dongFind.PNG)
+    ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/dongFind.PNG?raw=true)
 
 
 
 13. 구현 기능: aptFind
-    ![](https://lab.ssafy.com/chlj1101/happyhouse_framework_gwangju_5_JangJungHun_HwangSeonJu/-/raw/master/result/aptFind.PNG)
+    ![](https://github.com/Doppio1101/PJT/blob/master/Framework_PJT/result/aptFind.PNG?raw=true)
 
 
 
@@ -160,9 +162,10 @@ DB 구축 : select한 결과를 캡쳐해 주세요
   - <b>스프링 부트의 마이크로 서비스의 개념을 이해할 수 있던 프로젝트였습니다.</b> 
   - <b>STS에서 스프링 부트 프로젝트를 깃 관리를 할 때 자동으로 .ignore파일 설정이 되어 페어에게 프로젝트를 고스란히 넘기지 못 해서 헤맸던 것 같습니다. </b>
   
-  
+- +(2021.11.05)
+  - 이전 프로젝트와 이번 스프링 변환 및 아이디어 추가를 진행 하면서 기본에 충실하자는 생각이었습니다.
+  - 프론트엔드 프로젝트부터 코드를 다시 읽어보면서 추가, 심화 기능을 추가하고자 합니다.
+  - 이전에 했던 코드에서 더 낫고 깔끔한 코딩을 해보고자 합니다.
+  - 또, 주석을 달면서 다른 사람이 봐도 어떤 코드인지 쉽게 이해할 수 있도록 할 예정입니다.
+  - 다음에 있을 Vue를 이용한 프로젝트 후 위 계획을 실행하고자 합니다.
 
-
-
-- 황선주
-  - 지난 프로젝트 때 사용자 관련 기능을 구현해봐서 새로운 기능을 구현해보고자 지도 관련 부분을 맡게되었다. 구현하는데 있어서 사용자 기능 로직과 유사한 부분이 많아 큰 어려움은 없었지만 오픈API에서 데이터를 받아오고, Map에 뿌려주는 부분을 이해하는데 시간이 좀 걸렸다. 프로젝트를 시작할 때, 시간을 단축하기 위해 Spring boot 환경을 설정하는 것과 xml파일을 만드는 것을 페어분과 동시에 진행했었다. 하지만 환경이 달라 기능마다 테스트가 불가능했었고, 발생하는 오류들을 잡느라 시간을 단축하려고 했던 일이 오히려 독이 됨을 느꼈다. 그래도 오류들을 해결하면서 Spring boot로 변경할 때 같은 설정이더라도 구현이 달라지는 부분들에 대해서 많이 배우게 되었다.
